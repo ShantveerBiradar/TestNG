@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-25T22:25:26 IST" name="Suite" finished-at="2023-06-25T22:25:48 IST" duration-ms="22423">
+    <groups>
+    </groups>
+    <test started-at="2023-06-25T22:25:26 IST" name="Test" finished-at="2023-06-25T22:25:48 IST" duration-ms="22423">
+      <class name="Test_Classes.Patch_TC1">
+        <test-method signature="extractor()[pri:0, instance:Test_Classes.Patch_TC1@cc43f62]" started-at="2023-06-25T22:25:47 IST" name="extractor" finished-at="2023-06-25T22:25:48 IST" duration-ms="1520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractor -->
+      </class> <!-- Test_Classes.Patch_TC1 -->
+      <class name="Test_Classes.Post_TC1">
+        <test-method signature="extractor()[pri:0, instance:Test_Classes.Post_TC1@3f191845]" started-at="2023-06-25T22:25:26 IST" name="extractor" finished-at="2023-06-25T22:25:42 IST" duration-ms="15577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractor -->
+      </class> <!-- Test_Classes.Post_TC1 -->
+      <class name="Test_Classes.Post_RetryCode_TC2">
+        <test-method signature="extractor()[pri:0, instance:Test_Classes.Post_RetryCode_TC2@2cb4893b]" started-at="2023-06-25T22:25:45 IST" name="extractor" finished-at="2023-06-25T22:25:47 IST" duration-ms="2162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractor -->
+      </class> <!-- Test_Classes.Post_RetryCode_TC2 -->
+      <class name="Test_Classes.Put_TC1">
+        <test-method signature="extractor()[pri:0, instance:Test_Classes.Put_TC1@5e2c3d18]" started-at="2023-06-25T22:25:43 IST" name="extractor" finished-at="2023-06-25T22:25:45 IST" duration-ms="1533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractor -->
+      </class> <!-- Test_Classes.Put_TC1 -->
+      <class name="Test_Classes.Get_TC1">
+        <test-method signature="extractor()[pri:0, instance:Test_Classes.Get_TC1@7a35b0f5]" started-at="2023-06-25T22:25:42 IST" name="extractor" finished-at="2023-06-25T22:25:43 IST" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extractor -->
+      </class> <!-- Test_Classes.Get_TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
